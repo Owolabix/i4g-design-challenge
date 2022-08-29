@@ -207,12 +207,27 @@ hr {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 74px;
+
+}
+
+.social {
+    margin-bottom: 62.37px;
+}
+
+.social a {
+    color: #D4AF37;
+    margin-right: 20px;
+}
+
+.social a i {
+    height: 26.25px;
+    width: 30px;
 }
 
 .bottom-left {
     flex-direction: row;
     display: flex;
+    margin-bottom: 74px;
 }
 
 .bottom-left p:nth-of-type(1) {
