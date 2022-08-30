@@ -211,7 +211,7 @@ hr {
 }
 
 .social {
-    margin-bottom: 62.37px;
+    margin-bottom: 21.7px;
 }
 
 .social a {
@@ -227,9 +227,20 @@ hr {
 .bottom-left {
     flex-direction: row;
     display: flex;
-    margin-bottom: 74px;
+    margin-bottom: 37px;
 }
 
 .bottom-left p:nth-of-type(1) {
     margin-right: 50px;
+}
+
+.copyright {
+    text-align: center;
+    height: 18px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #D4AF37;
+    margin-bottom: 19px;
 }
